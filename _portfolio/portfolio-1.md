@@ -4,7 +4,7 @@ collection: portfolio
 category: professional
 permalink: /portfolio/kettlebell-launch-eu-expansion/
 excerpt: "E-commerce product launch generating $300K+ revenue, followed by EU market expansion analysis identifying product-market mismatch and localization strategy adjustments."
-date: 2024-01-01
+date: 2023-08-01
 venue: "E-commerce / International Expansion Project"
 ---
 # Kettlebell Product Launch & EU Expansion
