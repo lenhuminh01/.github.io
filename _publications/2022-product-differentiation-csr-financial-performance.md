@@ -14,14 +14,11 @@ This study examines how **product differentiation strategies** impact **financia
 
 ## My Role
 
-**Team Member (Key Contributor)**  
-Led and contributed significantly to:
-
-- **Chapter 1:** Research background, problem statement, literature gap, objectives  
-- **Chapter 2:** Theoretical framework, CSR and differentiation strategy review  
-- **Chapter 5:** Conclusions, managerial implications, recommendations
-
-Worked closely with the team in research design, data interpretation, and final report consolidation.
+- Led key contributions across research development and final report delivery
+- Built research background, problem statement, literature gap, and study objectives
+- Developed theoretical framework covering CSR, product differentiation, and financial performance
+- Synthesized findings into conclusions, managerial implications, and recommendations
+- Collaborated on research design, data interpretation, and final report consolidation
 
 ## Research Methodology
 
