@@ -92,6 +92,15 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Portfolio Categories - Sections used to organize professional portfolio items
+portfolio_category:
+  flagship:
+    title: 'Business Impact Projects'
+  leadership:
+    title: 'Leadership & Entrepreneurship'
+  simulations:
+    title: 'Case Simulations & Skill Building'    
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
