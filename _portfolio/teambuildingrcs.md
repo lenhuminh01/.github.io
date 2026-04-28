@@ -1,7 +1,7 @@
 ---
 title: "Team Leadership Under Time & Resource Constraints – Club Team Building Event Execution"
 collection: portfolio
-category: leadership
+category: Leadership & Entrepreneurship
 permalink: /portfolio/rcs-leadership-event/
 excerpt: "Led a 4-person core team to deliver a campus event under extreme time constraints during academic exam period."
 date: 2020-04
