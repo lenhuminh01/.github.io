@@ -3,7 +3,7 @@ title: "Research on how product differentiation influences corporate financial p
 collection: publications
 category: manuscripts
 permalink: /publication/product-differentiation-csr-financial-performance
-excerpt: "Research on how product differentiation influences corporate financial performance, and the moderating role of CSR among Vietnamese enterprises."
+excerpt: "Team research on how product differentiation influences corporate financial performance, and the moderating role of CSR among Vietnamese enterprises."
 date: 2022-01-01
 venue: "Foreign Trade University"
 ---
