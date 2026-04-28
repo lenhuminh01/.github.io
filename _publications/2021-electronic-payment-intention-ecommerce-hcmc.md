@@ -6,10 +6,6 @@ permalink: /publication/electronic-payment-intention/
 excerpt: "Team research project analyzing customer adoption drivers of electronic payments on e-commerce platforms using survey data and regression modeling."
 date: 2021-06-01
 venue: "Foreign Trade University"
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 ## Overview
