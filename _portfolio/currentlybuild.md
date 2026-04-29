@@ -11,8 +11,6 @@ venue: "Independent Skill Development"
 ## Context
 Currently developing a portfolio of real and simulated business cases to strengthen structured problem-solving, commercial judgment, and analytical decision-making capabilities.
 
----
-
 ## Current Focus Areas
 
 ### Business Case Solving
@@ -44,12 +42,8 @@ Applying foundational technical tools in business case settings:
 - Excel / Spreadsheet modeling
 - AI-assisted research and structured analysis
 
----
-
 ## Current Objective
 Build stronger capabilities in solving ambiguous business problems through structured thinking, practical frameworks, and data-supported recommendations.
-
----
 
 ## Status
 Projects and case studies are currently in development and will be published when ready.
