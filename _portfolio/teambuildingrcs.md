@@ -8,6 +8,8 @@ date: 2020-04-01
 venue: "Student Organization Project"
 ---
 
+![Team Building Event](images/2020_teambuildingrcs.jpg)
+
 ## Context
 Led a student team responsible for organizing a campus event that was approved at the last stage, leaving significantly reduced preparation time under academic exam constraints.
 
