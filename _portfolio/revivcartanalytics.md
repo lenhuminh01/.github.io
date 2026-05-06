@@ -70,4 +70,25 @@ Despite consistent GMV growth, profitability was declining. Leadership suspected
 | Analytics | KPI definition, data auditing, cohort thinking, business impact quantification |
 | Domain | E-commerce KPIs (GMV, AOV, cancellation rate, NPS proxy), marketplace dynamics |
 
+### Dashboard Preview
+
+![Dashboard Overview 1](/images/Dashboard-images-0.jpg)
+
+![Dashboard Overview 2](/images/Dashboard-images-1.jpg)
+
+![Dashboard Overview 3](/images/Dashboard-images-2.jpg)
+
+---
+
+## Technical Files & Working Assets
+
+Access supporting project files including SQL queries, Python notebooks, and Power BI dashboards below:
+
+🔗 **Google Drive Folder:** [Drive link](https://drive.google.com/drive/folders/1C-BheV2Cs7zrHDMAHHPvpioYl2DQgcmi?usp=sharing)
+
+Contents include:
+- SQL scripts for data extraction and transformation
+- Python notebooks for cleaning and analysis
+- Power BI dashboard pdf file
+
 Independently developed using AI-assisted research and workflow tools (ChatGPT and Claude) to support analysis, structuring, and refinement.
