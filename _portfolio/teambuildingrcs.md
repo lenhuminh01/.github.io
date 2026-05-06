@@ -5,7 +5,7 @@ category: Leadership & Entrepreneurship
 permalink: /portfolio/rcs-leadership-event/
 excerpt: "Led a 4-person core team to deliver a campus event under extreme time constraints during academic exam period."
 date: 2020-04-01
-venue: "Research Club for Student - Foreign Trade University"
+venue: "Student Organization Project"
 ---
 
 ![Team Building Event](/images/teambuilding.jpg)
