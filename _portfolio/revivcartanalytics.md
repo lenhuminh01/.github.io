@@ -5,7 +5,7 @@ category: simulations
 permalink: /portfolio/revivcart-marketplace-analytics/
 excerpt: "End-to-end analytics project diagnosing margin pressure and growth inefficiencies across a 100K+ order marketplace dataset using SQL, Python, and Power BI."
 date: 2026-04-15
-venue: "Data Analytics Portfolio Project"
+venue: "Data Analytics Project"
 tools: "PostgreSQL · Power BI · Python (pandas, SQLAlchemy) · DBeaver"
 ---
 
