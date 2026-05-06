@@ -69,3 +69,5 @@ Despite consistent GMV growth, profitability was declining. Leadership suspected
 | Power BI | Star schema modeling, DAX measures, RELATEDTABLE, Date Table, cross-page slicers |
 | Analytics | KPI definition, data auditing, cohort thinking, business impact quantification |
 | Domain | E-commerce KPIs (GMV, AOV, cancellation rate, NPS proxy), marketplace dynamics |
+
+Independently developed using AI-assisted research and workflow tools (ChatGPT and Claude) to support analysis, structuring, and refinement.
