@@ -4,7 +4,7 @@ collection: portfolio
 category: Business Impact Projects
 permalink: /portfolio/kettlebell-launch-eu-expansion/
 excerpt: "E-commerce product launch generating $300K+ revenue, followed by EU market expansion analysis identifying product-market mismatch and localization strategy adjustments."
-venue: "Yes4All LLC"
+venue: "E-commerce / International Expansion Project"
 ---
 
 ![Neoprene Kettlebell](/images/neoprenekettlebell.jpg)  
