@@ -1,7 +1,7 @@
 ---
 title: "Affiliate Marketing Ventures: Accesstrade, Shopee & TikTok Shop"
 collection: portfolio
-category: entrepreneurial
+category: Leadership & Entrepreneurship
 permalink: /portfolio/affiliate-marketing-ventures/
 excerpt: "Built affiliate marketing initiatives across Accesstrade and currently developing early-stage Shopee Video and TikTok Shop affiliate channels focused on traffic acquisition and conversion-led monetization."
 date: 2021-07-21
