@@ -5,7 +5,7 @@ category: entrepreneurial
 permalink: /portfolio/affiliate-marketing-ventures/
 excerpt: "Built affiliate marketing initiatives across Accesstrade and currently developing early-stage Shopee Video and TikTok Shop affiliate channels focused on traffic acquisition and conversion-led monetization."
 date: 2021-07-21
-venue: "Independent Growth & Monetization Projects"
+venue: "Independent Projects"
 ---
 
 ## Context
