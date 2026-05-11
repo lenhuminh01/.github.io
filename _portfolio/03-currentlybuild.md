@@ -1,11 +1,11 @@
 ---
 title: "Currently Building – Case Solving & Analytical Toolkit"
 collection: portfolio
-category: simulations
+category: case simulations
 permalink: /portfolio/currently-building/
 excerpt: "Ongoing development of real and simulated business cases using structured problem solving, business frameworks, and analytical tools including SQL, Python, and AI-assisted analysis."
 date: 2026-04-29
-venue: "Independent Skill Development"
+venue: "Skill Development"
 ---
 
 ## Context
