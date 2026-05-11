@@ -1,7 +1,7 @@
 ---
 title: "RevivCart – E-Commerce Marketplace Revenue & Operations Analysis"
 collection: portfolio
-category: simulations
+category: case simulations
 permalink: /portfolio/revivcart-marketplace-analytics/
 excerpt: "End-to-end analytics project diagnosing margin pressure and growth inefficiencies across a 100K+ order marketplace dataset using SQL, Python, and Power BI."
 date: 2026-04-15
